@@ -1,0 +1,33 @@
+{
+  "countries": {
+    "DExx": "Alemania",
+    "ATxx": "Austria",
+    "BExx": "Bélgica",
+    "BGxx": "Bulgaria",
+    "CYxx": "Chipre",
+    "HRxx": "Croacia",
+    "DKxx": "Dinamarca",
+    "SKxx": "Eslovaquia",
+    "SIxx": "Eslovenia",
+    "ESxx": "España",
+    "EExx": "Estonia",
+    "FIxx": "Finlandia",
+    "FRxx": "Francia",
+    "GRxx": "Grecia",
+    "HUxx": "Hungría",
+    "IExx": "Irlanda",
+    "ITxx": "Italia",
+    "LVxx": "Letonia",
+    "LTxx": "Lituania",
+    "LUxx": "Luxemburgo",
+    "MTxx": "Malta",
+    "NLxx": "Países Bajos",
+    "PLxx": "Polonia",
+    "PTxx": "Portugal",
+    "República Checa": "CZxx",
+    "ROxx": "Rumania",
+    "SExx": "Suecia"
+  }
+}
+
+
